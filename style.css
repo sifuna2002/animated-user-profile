@@ -134,7 +134,7 @@ body{
     opacity: 1;
 }
 .profile .box.open i {
-    left: 60px;
+    right: 60px;
 }
 .profile .box.open i:nth-of-type(1){ 
     transform: rotate(-90deg) translateX(120px) rotate(90deg);
