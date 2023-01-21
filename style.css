@@ -111,7 +111,7 @@ body{
 .profile .content .btn:hover { 
     box-shadow: 0 0 0 5px rgba(170, 187, 204, 0.5);
 }
-.profile .box { 
+.profile .box i{ 
     width: 50px;
     height: 50px;
     border-radius: 50%;
